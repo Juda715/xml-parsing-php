@@ -1,0 +1,13 @@
+{
+   "name": "alex.oleshkevich/fast-xml-parser",
+   "description": "Fast SAX XML parser for PHP",
+    "require": {
+        "php": ">=5.4.0"
+    },
+   "autoload": {
+        "psr-0": {
+            "FastXml": "src",
+            "FastXmlTest": "tests"
+        }
+    }
+}
